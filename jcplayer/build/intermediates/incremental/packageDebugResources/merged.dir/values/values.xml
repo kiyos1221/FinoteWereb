@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#000</color>
+    <color name="colorPrimary">#004f22</color>
+    <dimen name="icon_height">80dp</dimen>
+    <dimen name="icon_with">65dp</dimen>
+    <dimen name="player_height">120dp</dimen>
+    <dimen name="text_size">10sp</dimen>
+    <dimen name="touch_default">45dp</dimen>
+    <string name="app_name" title="app_name">JCPlayer</string>
+    <string name="text_test">fadsfasdfadsf</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

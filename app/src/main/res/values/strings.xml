@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finote Wereb</string>
+    <string name="westeAflage">ውስተ አፍላገ ባቢሎን ህየ ነበርነ(2x) ወበከይነ ምእመናኒሃ \n ሶበ ተዘከርናሃ ለ ጽዮን  </string>
+    <string name="kedamiha">ቀዳሚሃ ለጥበብ ህየ ነበርነ ወበከይነ ምእመናኒሃ \n ሶበ ተዘከርናሃ ለ ጽዮን</string>
+    <string name="westeAflage_tirgum">በባቢሎን ወንዞች አጠገብ በዚያ ተቀመጥን ጽዮንን ባሰብናት ጊዜ አለቀስን</string>
+    <string name="send_to">በምን መላክ ይፈልጋሉ ？</string>
+</resources>

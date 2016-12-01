@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\fadein.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\build\\intermediates\\res\\merged\\release\\anim\\fadeout.xml",
+        "source": "E:\\AndroidApplications\\FinoteWereb\\jcplayer\\src\\main\\res\\anim\\fadeout.xml"
+    }
+]
